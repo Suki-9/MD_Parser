@@ -1,0 +1,13 @@
+{
+  "name": "md_prser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:run": "pnpm build && pnpm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
